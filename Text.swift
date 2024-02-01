@@ -2,15 +2,15 @@
 import SwiftUI
     
     // MENU
-    let menuTitle = "SSC24"
+    let menuTitle = "DENGUE-ROUS"
     let textIntro1 = "Para Iniciar, clique no botão abaixo"
     
     //NEWSPAPER
     // NEWS 01
-    let news01Title = "Dengue em Ascensão: OMS Aponta \npara Expansão Global da Dengue"
+    let news01Title = "Dengue em Ascensão: OMS Aponta para Expansão Global da Dengue"
 
 
-    let news0101 = "Em dezembro de 2023, a Organização Mundial da Saúde (OMS) destacou \na propagação da dengue para países onde historicamente não era prevalente.\nA doença, transmitida por mosquitos, especialmente do tipo Aedes aegypti, tem \nse disseminado em áreas mais temperadas, como a Europa. Com quatro sorotipos \ndistintos, a imunidade adquirida após a recuperação é vitalícia somente para o \nsorotipo específico, mas apenas parcial e temporária para outros, aumentando o\nrisco de apresentações mais graves caso o paciente tenha a doença/dengue novamente"
+    let news0101 = "Em dezembro de 2023, a Organização Mundial da Saúde (OMS) destacou a propagação da dengue para países onde historicamente não era prevalente.A doença, transmitida por mosquitos, especialmente do tipo Aedes aegypti, tem se disseminado em áreas mais temperadas, como a Europa. Com quatro sorotipos distintos, a imunidade adquirida após a recuperação é vitalícia somente para o sorotipo específico, mas apenas parcial e temporária para outros, aumentando o risco de apresentações mais graves caso o paciente tenha a doença/dengue novamente"
     
     /* Font:
      European Centre for Disease Prevention and Control -  ECDC: Dengue worldwide overview - Available in: https://www.ecdc.europa.eu/en/dengue-monthly
@@ -18,7 +18,7 @@ import SwiftUI
      
      López-Peñalver, Raimundo Seguí. The Conversation: El dengue: una enfermedad cada vez menos ‘tropical’ que se extiende por Europa. Available in: https://theconversation.com/el-dengue-una-enfermedad-cada-vez-menos-tropical-que-se-extiende-por-europa-217876. Accessed in:December 28, 2023.
      */
-    let news0102 = "O aumento alarmante de casos, impulsionado por mudanças climáticas que favorecem \na reprodução do Aedes aegypti, tem gerado alertas, especialmente em regiões tropicais e \nsubtropicais.A Europa também enfrenta um aumento significativo de casos,levantando \npreocupações sobre a possível endemia da dengue no continente. A OMS destaca a \nnecessidade de ações rápidas para evitar sobrecarga nos sistemas de saúde e impactos \nsignificativos na população."
+    let news0102 = "O aumento alarmante de casos, impulsionado por mudanças climáticas que favorecem a reprodução do Aedes aegypti, tem gerado alertas, especialmente em regiões tropicais e subtropicais. A Europa também enfrenta um aumento significativo de casos,levantando preocupações sobre a possível endemia da dengue no continente. A OMS destaca a necessidade de ações rápidas para evitar sobrecarga nos sistemas de saúde e impactos significativos na população."
 
     /* Font:
      López-Peñalver, Raimundo Seguí. The Conversation: El dengue: una enfermedad cada vez menos ‘tropical’ que se extiende por Europa. Available in: https://theconversation.com/el-dengue-una-enfermedad-cada-vez-menos-tropical-que-se-extiende-por-europa-217876. Accessed in: December 28, 2023.
@@ -63,7 +63,7 @@ import SwiftUI
     
     let fsQuote01 = "Sua missão é espalhar a informação! Agora que já conhece como combater a dengue, compartilhe com amigos, familiares e vizinhos os cuidados e novos hábitos que devemos ter para previnir água parada."
     
-    let fsQuote02 = "E fique tranquilo! Em Janeiro de 2024 o Brasil foi o primeiro país a incorporar a vacina contra o vírus no sistema público de saúde com previsão para fevereiro para toda população. O imunizante também está disponível em clínicas privadas em países da União Europeia, Indonésia, Tailândia e Argentina.\n Todos contra a Dengue!!"
+    let fsQuote02 = "E fique tranquilo! Em Janeiro de 2024 o Brasil foi o primeiro país a incorporar a vacina contra o vírus no sistema público de saúde com previsão para fevereiro para toda população. O imunizante também está disponível em clínicas privadas em países da União Europeia, Indonésia, Tailândia e Argentina.\nTodos contra a Dengue!!"
     
     /*
      Font:
